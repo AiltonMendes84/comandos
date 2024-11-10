@@ -2,4 +2,4 @@
 <html>
 <head>
 <\head>
-<body> </p>Seja bem vidos ao site comandos teste2 </p> <\body>
+<body> Seja bem vidos ao site comandos teste2 <\body>
